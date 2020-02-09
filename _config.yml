@@ -1,0 +1,8 @@
+title: doing
+description: A command line tool for remembering what you were doing and tracking what you've done.
+google_analytics: UA-34296025-1
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
